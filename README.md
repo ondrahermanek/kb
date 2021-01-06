@@ -22,3 +22,12 @@
 - https://medium.com/@_chrishan/a-mental-model-for-leading-high-performance-engineering-teams-bf84caed50dd
    - `guardrails`, `shield team`
    - "A team works together to accomplish a common goal, and as a leader, you should have a crystal clear picture of the end state you’re trying to reach."
+
+- 🎙 https://techleadjournal.dev/episodes/17/ - Remote Work & Asynchronous Communication
+   - `remote work`
+
+
+## Personal
+
+- https://soundcloud.com/czpodcast-1/cz-podcast-243-soukrome-vzdelavani-v-cesku
+   - `soukrome vzdelani`, `scio skola`, `sloucene predmety`, `it gymnazium`
