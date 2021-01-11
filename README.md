@@ -2,6 +2,11 @@
 
 ## Tech
 
+### Functional Programming
+
+- https://eiriktsarpalis.wordpress.com/2020/07/20/effect-programming-in-csharp/
+   - `algebraic effects`, `eff`
+
 ### Code reviews
 
 - https://mtlynch.io/code-review-love/
