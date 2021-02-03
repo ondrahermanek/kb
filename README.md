@@ -36,6 +36,17 @@
    - "Without having a quality codebase, you cannot be agile. Push defects down, release frequently, test first and refactor and focus on simple design."
    - "You are not children. Companies are not your parents. You have to own your career and invest in yourself."
 
+- https://darja-bunch.medium.com/an-engineers-guide-to-saying-no-3b2dba385c66 The art of saying **No**
+   - `Pause`, `Twist`, `Agreement`, `Allotment`, `Commitment`
+   
+- https://thedigitalprojectmanager.com/how-run-sprint-retrospective/
+   - Keep it simple, Incorporate novelty, Stay focused, Action oriented
+
+- https://medium.com/kinblog/the-scrumban-party-making-sense-of-the-scrum-kanban-methodologies-f6ebe059ab2b
+   - `Scrum`, `Kanban`, `Srumban`
+   - "Scrum defines a list per assignee breakdown", "Kanban just a list of tasks to do"
+   
+   
 ## Personal
 
 - https://soundcloud.com/czpodcast-1/cz-podcast-243-soukrome-vzdelavani-v-cesku
