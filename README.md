@@ -51,3 +51,4 @@
 
 - https://soundcloud.com/czpodcast-1/cz-podcast-243-soukrome-vzdelavani-v-cesku
    - `soukrome vzdelani`, `scio skola`, `sloucene predmety`, `it gymnazium`
+- https://www.nevychova.cz/blog/
