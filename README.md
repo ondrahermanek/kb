@@ -6,13 +6,20 @@
 
 - https://eiriktsarpalis.wordpress.com/2020/07/20/effect-programming-in-csharp/
    - `algebraic effects`, `eff`
+   
+- https://betterprogramming.pub/when-and-when-not-to-use-functional-programming-73dbcb5d0a85
+   - `pipe`
 
-### Code reviews
+### Coding
 
 - https://mtlynch.io/code-review-love/
 - https://mtlynch.io/human-code-reviews-1/#what-is-a-code-review
 - https://mtlynch.io/human-code-reviews-2/
    - `reviewer`, `reviewee`, `feedback`, `communication`
+
+- https://medium.com/swlh/the-ultimate-engineers-guide-to-code-refactoring-c38372632906
+   - `refactoring`
+   - When, what, how to refactor. The costs and befenits. Some approaches.
 
 ## Leadership
 
@@ -45,6 +52,10 @@
 - https://medium.com/kinblog/the-scrumban-party-making-sense-of-the-scrum-kanban-methodologies-f6ebe059ab2b
    - `Scrum`, `Kanban`, `Srumban`
    - "Scrum defines a list per assignee breakdown", "Kanban just a list of tasks to do"
+
+- https://betterprogramming.pub/why-most-programmers-end-up-being-or-are-underperforming-technical-leads-c6253129f56d
+   - `Peters paradox`, `creative incompetence`
+   - It depends how ppl adapt to the change from IC to TL where they work with people, not with code anymore.
    
    
 ## Personal
