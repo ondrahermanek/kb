@@ -21,7 +21,7 @@
    - `refactoring`
    - When, what, how to refactor. The costs and befenits. Some approaches.
 
-## Leadership
+## Leadership & Management
 
 - https://slack.engineering/technical-leadership-getting-started/
    - `leading self` > `leading others` > `leaing org.`
@@ -57,7 +57,9 @@
    - `Peters paradox`, `creative incompetence`
    - It depends how ppl adapt to the change from IC to TL where they work with people, not with code anymore.
    
-   
+- https://hbr.org/2021/02/a-simple-compliment-can-make-a-big-difference
+   - `feedback`, `compliment`, `commitment`, `anxiety`
+
 ## Personal
 
 - https://soundcloud.com/czpodcast-1/cz-podcast-243-soukrome-vzdelavani-v-cesku
