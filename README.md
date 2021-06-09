@@ -63,6 +63,10 @@
 - https://officevibe.com/blog/science-goal-setting
    - `SMART goal`, `1-2-1`
 
+- https://officevibe.com/blog/ways-to-be-more-productive
+   - `do/decide/delegate/delete`, `priorititation`
+   - "breaks make you more productive"
+
 ## Personal
 
 - https://soundcloud.com/czpodcast-1/cz-podcast-243-soukrome-vzdelavani-v-cesku
