@@ -60,6 +60,9 @@
 - https://hbr.org/2021/02/a-simple-compliment-can-make-a-big-difference
    - `feedback`, `compliment`, `commitment`, `anxiety`
 
+- https://officevibe.com/blog/science-goal-setting
+   - `SMART goal`, `1-2-1`
+
 ## Personal
 
 - https://soundcloud.com/czpodcast-1/cz-podcast-243-soukrome-vzdelavani-v-cesku
