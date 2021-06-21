@@ -67,6 +67,11 @@
    - `do/decide/delegate/delete`, `priorititation`
    - "breaks make you more productive"
 
+- https://codeburst.io/building-a-strong-development-team-7744261d0cbb
+  - `mob programming`, `pair programming`, `reasoning`, `satisfaction`
+  - How/Why/Wheb to set up mob programming. There is initial pain in set up, but if it works, the solutions are better and team-owned.
+
+
 ## Personal
 
 - https://soundcloud.com/czpodcast-1/cz-podcast-243-soukrome-vzdelavani-v-cesku
