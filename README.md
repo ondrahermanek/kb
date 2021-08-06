@@ -71,6 +71,10 @@
   - `mob programming`, `pair programming`, `reasoning`, `satisfaction`
   - How/Why/Wheb to set up mob programming. There is initial pain in set up, but if it works, the solutions are better and team-owned.
 
+-  https://link.medium.com/kNSKrDpEvib
+  - Buddy, Social network, Opennes, Hiring check-list, Meet on first day
+  - `hiring`, `starter`
+
 
 ## Personal
 
