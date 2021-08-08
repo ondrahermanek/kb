@@ -71,9 +71,13 @@
   - `mob programming`, `pair programming`, `reasoning`, `satisfaction`
   - How/Why/Wheb to set up mob programming. There is initial pain in set up, but if it works, the solutions are better and team-owned.
 
--  https://link.medium.com/kNSKrDpEvib
+-  https://link.medium.com/kNSKrDpEvib - How to work with new hire
   - Buddy, Social network, Opennes, Hiring check-list, Meet on first day
   - `hiring`, `starter`
+
+-  https://link.medium.com/g0tFSjjNyib - why to stay long in 1 company
+   - Good, Bad and the Ugly, in companies that have growth in cultures
+   - `career development`, `go-to person`, `internal hires`
 
 
 ## Personal
