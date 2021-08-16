@@ -10,6 +10,12 @@
 - https://betterprogramming.pub/when-and-when-not-to-use-functional-programming-73dbcb5d0a85
    - `pipe`
 
+- https://link.medium.com/jbCfrKEyLib
+   - "make time to spec" - will save from overegineer and bad desgign
+   - "build & deliver fast" - short fb loop
+   - "make it pretty" - UX is less forgiving than bugs
+   - "when in doubt, copy" - no nees to innovate at all costs
+
 ### Coding
 
 - https://mtlynch.io/code-review-love/
