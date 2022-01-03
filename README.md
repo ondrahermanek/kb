@@ -85,6 +85,9 @@
    - Good, Bad and the Ugly, in companies that have growth in cultures
    - `career development`, `go-to person`, `internal hires`
 
+- 
+https://hbr.org/2016/06/resilience-is-about-how-you-recharge-not-how-you-endure
+  - interwork afterwork relaxation, phone offtime apps
 
 ## Personal
 
