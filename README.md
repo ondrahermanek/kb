@@ -27,7 +27,7 @@
    - `refactoring`
    - When, what, how to refactor. The costs and befenits. Some approaches.
 
-- https://techleadjournal.dev/episodes/89
+- https://techleadjournal.dev/episodes/89 (https://www.youtube.com/watch?v=ME4UTpKlr0c)
    - `code quality`
    - New lines are liability, not asset. You spend more time reading code than writing it. Code should be sustainable (more than maintainable).
 
@@ -92,8 +92,9 @@
 - https://hbr.org/2016/06/resilience-is-about-how-you-recharge-not-how-you-endure
   - interwork afterwork relaxation, phone offtime apps
 
-- https://techleadjournal.dev/episodes/89
+- https://techleadjournal.dev/episodes/89 (https://www.youtube.com/watch?v=VOO0QtqzG2s)
    - `hiring`
+   - SuSiBOL = Suggestive question about topic => concrete sitation => Their Behaviro / Outcome / Learning
 
 ## Personal
 
