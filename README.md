@@ -1,4 +1,5 @@
-# Knowledge base
+
+II1# Knowledge base
 
 ## Tech
 
@@ -31,6 +32,10 @@
    - `code quality`
    - New lines are liability, not asset. You spend more time reading code than writing it. Code should be sustainable (more than maintainable).
 
+c# 11 news
+    - raw strings, required init, array pattern match, generic attributes - IValidator, generic math, file access modifier
+
+
 ## Leadership & Management
 
 - https://slack.engineering/technical-leadership-getting-started/
@@ -49,55 +54,3 @@
    - `remote work`
 
 - https://www.infoq.com/articles/slow-down-go-faster/
-   - `zombie software`, `hiring`, `people`
-   - "Without having a quality codebase, you cannot be agile. Push defects down, release frequently, test first and refactor and focus on simple design."
-   - "You are not children. Companies are not your parents. You have to own your career and invest in yourself."
-
-- https://darja-bunch.medium.com/an-engineers-guide-to-saying-no-3b2dba385c66 The art of saying **No**
-   - `Pause`, `Twist`, `Agreement`, `Allotment`, `Commitment`
-   
-- https://thedigitalprojectmanager.com/how-run-sprint-retrospective/
-   - Keep it simple, Incorporate novelty, Stay focused, Action oriented
-
-- https://medium.com/kinblog/the-scrumban-party-making-sense-of-the-scrum-kanban-methodologies-f6ebe059ab2b
-   - `Scrum`, `Kanban`, `Srumban`
-   - "Scrum defines a list per assignee breakdown", "Kanban just a list of tasks to do"
-
-- https://betterprogramming.pub/why-most-programmers-end-up-being-or-are-underperforming-technical-leads-c6253129f56d
-   - `Peters paradox`, `creative incompetence`
-   - It depends how ppl adapt to the change from IC to TL where they work with people, not with code anymore.
-   
-- https://hbr.org/2021/02/a-simple-compliment-can-make-a-big-difference
-   - `feedback`, `compliment`, `commitment`, `anxiety`
-
-- https://officevibe.com/blog/science-goal-setting
-   - `SMART goal`, `1-2-1`
-
-- https://officevibe.com/blog/ways-to-be-more-productive
-   - `do/decide/delegate/delete`, `priorititation`
-   - "breaks make you more productive"
-
-- https://codeburst.io/building-a-strong-development-team-7744261d0cbb
-  - `mob programming`, `pair programming`, `reasoning`, `satisfaction`
-  - How/Why/Wheb to set up mob programming. There is initial pain in set up, but if it works, the solutions are better and team-owned.
-
--  https://link.medium.com/kNSKrDpEvib - How to work with new hire
-  - Buddy, Social network, Opennes, Hiring check-list, Meet on first day
-  - `hiring`, `starter`
-
--  https://link.medium.com/g0tFSjjNyib - why to stay long in 1 company
-   - Good, Bad and the Ugly, in companies that have growth in cultures
-   - `career development`, `go-to person`, `internal hires`
-
-- https://hbr.org/2016/06/resilience-is-about-how-you-recharge-not-how-you-endure
-  - interwork afterwork relaxation, phone offtime apps
-
-- https://techleadjournal.dev/episodes/89 (https://www.youtube.com/watch?v=VOO0QtqzG2s)
-   - `hiring`
-   - SuSiBOL = Suggestive question about topic => concrete sitation => Their Behaviro / Outcome / Learning
-
-## Personal
-
-- https://soundcloud.com/czpodcast-1/cz-podcast-243-soukrome-vzdelavani-v-cesku
-   - `soukrome vzdelani`, `scio skola`, `sloucene predmety`, `it gymnazium`
-- https://www.nevychova.cz/blog/
