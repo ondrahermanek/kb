@@ -1,5 +1,5 @@
-II1# Knowledge base
+# Knowledge base
 
-Content
+## Content
 - [technical[(Technical.md) - [Edit](https://github.com/ondrahermanek/kb/edit/main/Technical.md)
 - [leadership[(Leadership.md) - [Edit](https://github.com/ondrahermanek/kb/edit/main/Leadership.md)
