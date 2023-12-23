@@ -21,7 +21,8 @@
    - `async`, `await`, `task`, `continuation`, `parallel`, `threads`
    - await creates new task, runs it in separate thread (relieves current), when result is available, returns result and continues in original thread (eg. UI thread), which is good for apps, as no `Dispatcher` code needed
    - `foreach { ... await }` is a big **NO NO** as it basically executes sequentially => use `Task.WhenAll`
-   - `Task.ConfigureAwait(true/false)` - `false` is recommended for library usage as it doesn't return to original thread (caller can do themselves). `true` returns to original thread.  
+   - `Task.ConfigureAwait(true/false)` - `false` is recommended for library usage as it doesn't return to original thread (caller can do themselves). `true` returns to original thread.
+   - 
 
 ### c# 11 news
     - raw strings, required init, array pattern match, generic attributes - IValidator, generic math, file access modifier
