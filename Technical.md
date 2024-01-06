@@ -23,7 +23,12 @@
    - `foreach { ... await }` is a big **NO NO** as it basically executes sequentially => use `Task.WhenAll`
    - `Task.ConfigureAwait(true/false)` - `false` is recommended for library usage as it doesn't return to original thread (caller can do themselves). `true` returns to original thread.
    - Task.Factory.StarNew allows to specify more operation params - like ceation options or cancellation token or continuation or child task behavior, parameters without *closure*
-   - 
+   - Locks - Interlocked is faster, less code, but only on ints (algebraics operationns are atomic there)
+   - Deadlocks  - don't share lock objects, dont use `string`,  `this`, `typeof()` as lock objects, don't nest locking
+   - Cancellations in parallel library - will not start new ones after cancellation is requested, will finish already started (unless stoping implemented internally there)
+   - `ThreadLocal<T>` variable scoped to a singlle thread (beware, threads can be shared), has different valuue in diffferent threads
+   - `AsyncLocal<T>` variable scoped to a single async context, nested conrext scope creates local copy => keeps outer scope's value
+   - Plinq - use `AsParallel`, internally evaluated if parallelizable (independent and safe), `AsOrdered` to force order, `WithCancellation` ... all linq extensions
 
 ### c# 11 news
     - raw strings, required init, array pattern match, generic attributes - IValidator, generic math, file access modifier
