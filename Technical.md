@@ -1,4 +1,4 @@
-# Tech
+/# Tech
 
 ## Functional Programming
 
@@ -65,3 +65,7 @@
 - https://techleadjournal.dev/episodes/89 (https://www.youtube.com/watch?v=ME4UTpKlr0c)
    - `code quality`
    - New lines are liability, not asset. You spend more time reading code than writing it. Code should be sustainable (more than maintainable).
+
+## Sources
+
+- https://buildplease.com/pages/
