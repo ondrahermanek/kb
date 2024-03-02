@@ -40,7 +40,18 @@
 ### c# 11 news
     - raw strings, required init, array pattern match, generic attributes - IValidator, generic math, file access modifier
 
-### Techniques
+### EF
+
+- https://medium.com/@amolaher67/ef-core-2-performance-improvement-clear-all-tracked-entities-84d5f36ac02
+   - EF core: ChangeTracker.Clear() clears state and saves memory
+     
+## Architecture
+
+### Clean architecture
+
+- https://github.com/jasontaylordev/CleanArchitecture/blob/main/README-template.md
+
+## Techniques
 
 - https://mtlynch.io/code-review-love/
 - https://mtlynch.io/human-code-reviews-1/#what-is-a-code-review
