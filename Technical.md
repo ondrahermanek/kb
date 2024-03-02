@@ -51,6 +51,11 @@
 
 - https://github.com/jasontaylordev/CleanArchitecture/blob/main/README-template.md
 
+### Aggregate roots & event sourcing
+
+- https://codeopinion.com/aggregate-root-design-behavior-data/
+- https://codeopinion.com/clean-up-your-domain-model-with-event-sourcing/
+
 ## Techniques
 
 - https://mtlynch.io/code-review-love/
