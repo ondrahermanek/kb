@@ -53,7 +53,17 @@
 
 
 - ps course (by Renze) about basic patterns and principles
-   - clean architecture is designed for system's inhabitants, not architects or machine
+  - clean architecture is designed for system's inhabitants, not architects or machine
+    - Presentatio  = UI
+    - Domain = business domain (aggregate roots)
+    - Appliccation = Abstraction
+    - Persistance = interface to data storage
+    - Infrastructure = 3rd party dependencies, OS interface
+    - Common = library
+  - Domain centric
+    - usability (domain) >>> implementation detail
+    - Pro: less coupling, DDD, ...
+    - Con: requires splid domain vs app
 
 ### Aggregate roots & event sourcing
 
