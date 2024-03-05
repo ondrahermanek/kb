@@ -1,4 +1,4 @@
-/# Tech
+# Tech
 
 ## Functional Programming
 
@@ -50,6 +50,10 @@
 ### Clean architecture
 
 - https://github.com/jasontaylordev/CleanArchitecture/blob/main/README-template.md
+
+
+- ps course (by Renze) about basic patterns and principles
+   - clean architecture is designed for system's inhabitants, not architects or machine
 
 ### Aggregate roots & event sourcing
 
