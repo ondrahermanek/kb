@@ -61,9 +61,10 @@
     - Infrastructure = 3rd party dependencies, OS interface
     - Common = library
   - Domain centric
-    - usability (domain) >>> implementation detail
+    - usability (domain & use cases) >>> implementation detail
     - Pro: less coupling, DDD, ...
     - Con: requires splid domain vs app
+    - onion arch: inner = domain, services, app. services. outer: tests, infra, ui
 
 ### Aggregate roots & event sourcing
 
