@@ -68,6 +68,10 @@
   - Application layer (business, usecases)
     - sliced to manageable level of complexity
     - handy to implement Inversion of controll - persistence and infra layer to depend on application and domain (orm)
+  - commands and queries (cqrs)
+    - command - does sth, modifies state, shoul be void
+    - query - answers questiinm does not modify state, returns value
+    - event sourcing + event store - saving events and replaying them to get the state, update read db. complete audut trail, any-time pitr, replay for debug
 
 ### Aggregate roots & event sourcing
 
