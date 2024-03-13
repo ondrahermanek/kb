@@ -65,6 +65,9 @@
     - Pro: less coupling, DDD, ...
     - Con: requires splid domain vs app
     - onion arch: inner = domain, services, app. services. outer: tests, infra, ui
+  - Application layer (business, usecases)
+    - sliced to manageable level of complexity
+    - handy to implement Inversion of controll - persistence and infra layer to depend on application and domain (orm)
 
 ### Aggregate roots & event sourcing
 
