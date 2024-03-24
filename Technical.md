@@ -72,7 +72,7 @@
     - command - does sth, modifies state, shoul be void
     - query - answers questiinm does not modify state, returns value
     - event sourcing + event store - saving events and replaying them to get the state, update read db. complete audut trail, any-time pitr, replay for debug
-
+  - microservices - granularity up to us, good is by aggregate roots
 ### Aggregate roots & event sourcing
 
 - https://codeopinion.com/aggregate-root-design-behavior-data/
