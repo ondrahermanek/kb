@@ -75,8 +75,14 @@
   - microservices - granularity up to us, good is by aggregate roots
     - message bus,queues, events
   - tdd = red, green, refactor. acceptance tests (mocked service tests)
+
+ Dependency injection (Ps course)
+ - testability, loose coupling, inversion of control (of creation)
+ - ctor depedency, IserviceCollection to register all services
+
+
  
-  - 
+
 ### Aggregate roots & event sourcing
 
 - https://codeopinion.com/aggregate-root-design-behavior-data/
