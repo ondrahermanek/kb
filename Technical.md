@@ -83,8 +83,10 @@
  - singleton - 1ce a lafetime of app, GC light, when heavy to construct, mind thread, memory leak prone
  - scoped - lives per scope (i.e. request), not necessary to be thread safe
  - automatic disposing of dependencies, CreateAsyncScope + IAsyncDisposable
-
-
+ - using ServiceDescriptors, last used from multiple registrations
+ or use TryAdd service to avoid replacing by accident
+ - services can be Replace, or RemoveAll
+ - multipke dependencies resolved as collection IEnubetable<T> - used e.g. for multiple rules
  
 
 ### Aggregate roots & event sourcing
