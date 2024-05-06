@@ -79,7 +79,10 @@
  ### Dependency injection (Ps course)
  - testability, loose coupling, inversion of control (of creation)
  - ctor depedency, IserviceCollection to register all services
- - 
+ - transient = 4each dependency gets new instance (state is thread safe, GC heavy)
+ - singleton - 1ce a lafetime of app, GC light, when heavy to construct, mind thread, memory leak prone
+ - scoped - lives per scope (i.e. request), not necessary to be thread safe
+ - automatic disposing of dependencies, CreateAsyncScope + IAsyncDisposable
 
 
  
