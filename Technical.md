@@ -88,6 +88,9 @@
  - services can be Replace, or RemoveAll
  - multipke dependencies resolved as collection IEnubetable<T> - used e.g. for multiple rules
  - code polish - create XYServiceCollectionExtension to move related XY comp. registration to separate file
+ - activator utiluties - fw components like Controllers, tag helpers, model binders
+ - [FromService] allows to register/resolve dependency in action method params, rather than in controller ctor - GC lighter
+ - Scrutor - nuget package, used for assembly scanning (register based on rules) and decorator pattern (extend functionality without modifying current code)
  
 
 ### Aggregate roots & event sourcing
