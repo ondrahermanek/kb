@@ -87,6 +87,7 @@
  or use TryAdd service to avoid replacing by accident
  - services can be Replace, or RemoveAll
  - multipke dependencies resolved as collection IEnubetable<T> - used e.g. for multiple rules
+ - code polish - create XYServiceCollectionExtension to move related XY comp. registration to separate file
  
 
 ### Aggregate roots & event sourcing
