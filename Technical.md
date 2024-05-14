@@ -91,6 +91,7 @@
  - activator utiluties - fw components like Controllers, tag helpers, model binders
  - [FromService] allows to register/resolve dependency in action method params, rather than in controller ctor - GC lighter
  - Scrutor - nuget package, used for assembly scanning (register based on rules) and decorator pattern (extend functionality without modifying current code)
+ - Autofac - more powerfull dependency container
  
 
 ### Aggregate roots & event sourcing
