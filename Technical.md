@@ -117,3 +117,16 @@
 ## Sources
 
 - https://buildplease.com/pages/
+
+## Tools
+
+- [Gitbutler](https://gitbutler.com/), [Demo](https://www.youtube.com/watch?v=PWc4meBj4jo&ab_channel=GitButler) - Git client that does lots of stuff automatically
+- [EventStore DB](https://www.eventstore.com/eventstoredb) - event native DB, for apps using Event sourcing, Microservices, Event-driven architecture
+- [NSwag](https://github.com/RicoSuter/NSwag) - Open API swagger generation tool (replacing swashbuckle)
+- [Dev Proxy](https://learn.microsoft.com/en-us/microsoft-cloud/dev/dev-proxy/overview) - [blog](https://devblogs.microsoft.com/dotnet/build-test-resilient-apps-dotnet-dev-proxy/) - tool to help simulate errors, delays, rate limitting
+   - similar, but better than [webhook.site](https://webhook.site/)
+- 
+
+## Articles/videos/
+
+- [Event driven architecture](https://en.wikipedia.org/wiki/Event-driven_architecture) - for loosely coupled systems. Layers: ((((e. producer) e. channel) e. processing engine) | e. driven activity)
