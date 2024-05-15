@@ -125,7 +125,7 @@
 - [NSwag](https://github.com/RicoSuter/NSwag) - Open API swagger generation tool (replacing swashbuckle)
 - [Dev Proxy](https://learn.microsoft.com/en-us/microsoft-cloud/dev/dev-proxy/overview) - [blog](https://devblogs.microsoft.com/dotnet/build-test-resilient-apps-dotnet-dev-proxy/) - tool to help simulate errors, delays, rate limitting
    - similar, but better than [webhook.site](https://webhook.site/)
-- 
+- [Structurizer](https://docs.structurizr.com/lite/quickstart) - diagram as a code using the [c4 model](https://c4model.com/).
 
 ## Articles/videos/
 
