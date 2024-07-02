@@ -92,7 +92,27 @@
  - [FromService] allows to register/resolve dependency in action method params, rather than in controller ctor - GC lighter
  - Scrutor - nuget package, used for assembly scanning (register based on rules) and decorator pattern (extend functionality without modifying current code)
  - Autofac - more powerfull dependency container
- 
+
+### Kafka - event driven arch (ps course)
+-producer -> event (notification of past event)
+- producer -> command (action) -> consumer
+- broker - for decoupling
+- ddd workshop for splitting
+  - domain eventv(orange) - happening in the system, relevant for business
+  - process (purole) - whenever XY then Z
+  - external system (pink) - happens outside, no controll over it
+  - command (green) - a system (background) trigger
+  - aggregate - group of events and commands
+  - bounded ctx - same term different meaning (e.g. receive order)
+- high tthroughput, no (de)serialization, only bytes
+- distrivuted streaming - publish/subscribe, distribured storage, alnost realtopime processing
+- broker - stores incomming message and sends it when requested
+- zookeeper - knows about brokers, handles failure7
+- message = record of Key, Value, Timestamp
+- topic = category of messages, time or size retention in broker, upsert based on key
+  - messages partitioned on brokers (replicated on various brokers)
+- producer emmits events to topics - producer record Key and Value
+- consumer - pull mechanism, gets and processes message
 
 ### Aggregate roots & event sourcing
 
